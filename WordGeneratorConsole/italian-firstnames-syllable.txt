@@ -1,4 +1,4 @@
-gri/mal/di
+﻿gri/mal/di
 fit/ti/pal/di
 me/di/ci
 ga/li/le/o
